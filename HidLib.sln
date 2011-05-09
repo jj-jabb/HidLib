@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HidLib", "HidLib\HidLib.csproj", "{B9BEEB5B-AF48-48C8-94C4-995D85FD8CDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HidLib.SampleApp", "HidLib.SampleApp\HidLib.SampleApp.csproj", "{AD4278C3-E8F7-44D0-89A4-F2ED8904BED0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Info", "Info", "{A67F3C54-2283-4DD8-9E4D-14EC4C437E6A}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		Original HidLibrary LICENSE = Original HidLibrary LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9BEEB5B-AF48-48C8-94C4-995D85FD8CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BEEB5B-AF48-48C8-94C4-995D85FD8CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BEEB5B-AF48-48C8-94C4-995D85FD8CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BEEB5B-AF48-48C8-94C4-995D85FD8CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4278C3-E8F7-44D0-89A4-F2ED8904BED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4278C3-E8F7-44D0-89A4-F2ED8904BED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4278C3-E8F7-44D0-89A4-F2ED8904BED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4278C3-E8F7-44D0-89A4-F2ED8904BED0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

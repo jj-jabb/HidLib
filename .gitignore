@@ -1,0 +1,14 @@
+*.suo
+*.user
+*.tlog
+*.opensdf
+*.sdf
+
+*\obj*
+*\bin*
+*\old
+*\debug*
+*\release*
+
+*\Debug*
+*\Release*
